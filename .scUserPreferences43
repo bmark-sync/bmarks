@@ -1,0 +1,25 @@
+#  Version: 4.3.0.2428
+#  Thu Dec 31 10:01:34 GMT 2015
+#
+#
+Profiles/IQ127/ShowDesignDetails=0
+Profiles/IQ127/JavaSourcePath=
+#
+#
+#
+UserPrefRepositoryInfo/Version=4
+UserPrefRepositoryInfo/ToolbarSplitter=300
+UserPrefRepositoryInfo/TreeVisible=true
+UserPrefRepositoryInfo/ToolbarVisible=true
+UserPrefRepositoryInfo/StatusbarVisible=true
+UserPrefRepositoryInfo/Location=-8 0 1382 744
+UserPrefRepositoryInfo/BottomSplitter=200
+UserPrefRepositoryInfo/LastProviderConnection=Adaptive Server Enterprise
+UserPrefRepositoryInfo/Splitter=200
+#
+ProviderData/ASE1254/Autoload=true
+#
+ProviderData/IQ127/Autoload=true
+#
+#
+#
